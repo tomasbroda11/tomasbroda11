@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/tomasbroda11](github.com/tomasbroda11)
 
-- 💬 Ask me about **Backend development, coding or what you want**
+- 💬 Ask me about **Backend development, coding or what you need**
 
 - 📫 How to reach me **tomasbroda13@gmail.com**
 
