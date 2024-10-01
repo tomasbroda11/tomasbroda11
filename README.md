@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tomasbroda13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1as37niF8o8quL4oo1-zs49-RAguVnvV-/view?usp=sharing](https://drive.google.com/file/d/1as37niF8o8quL4oo1-zs49-RAguVnvV-/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1as37niF8o8quL4oo1-zs49-RAguVnvV-/view?usp=sharing](https://drive.google.com/file/d/1as37niF8o8quL4oo1-zs49-RAguVnvV-/view?usp=sharing)](https://drive.google.com/file/d/1-B3WA4nvjHq0lpnQr5Fx25k_f-4iYIfA/view?usp=sharing)
 
 - ⚡ Fun fact **I think I´m a cool dev and sports lover**
 
