@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomas Broda</h1>
 <h3 align="center">A passionate software engineering student</h3>
 
-- 🔭 I’m currently working on [FruitAdmin](https://github.com/tomasbroda11/FruitAdmin)
+- 🔭 I’m currently working on [BusinessManager](https://github.com/tomasbroda11/FruitAdmin)
 
 - 🌱 I’m currently learning **Machine learning with python**
 
