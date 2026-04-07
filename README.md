@@ -10,7 +10,7 @@ I like working on hard problems, shipping fast, and learning by doing. If it inv
 ### 🚀 What I'm up to
 - Building **Broco Solutions** — our platform, our rules
 - Training CNNs & experimenting with **YOLO** for image recognition
-- Finishing my Systems Engineering degree @ UTN
+- Building AI Agents for real business
 
 ### 🛠 Stack
 `Python` `TensorFlow` `PyTorch` `Django` `PostgreSQL` `Docker` `Rails` `GraphQL`
